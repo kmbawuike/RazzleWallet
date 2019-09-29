@@ -6,6 +6,7 @@ import image4 from '../../assets/Home/debit-card-group__two.png'
 import image5 from '../../assets/Home/debit-card.png'
 import image6 from '../../assets/Home/gointernational.png'
 import '../../styles/Home/describtion.css'
+import '../../styles/Home/responsiveness/describtion.css'
 
 
 class Describtion extends Component{
